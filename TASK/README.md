@@ -1,18 +1,5 @@
-# Projekt Cerium
+# TASK 
 
-Something i made for C++ Software Engineering Internship in Bangalore at Inkers Private Limited
-
-The goal was to
-Write a C++ application which can: 
-- [X] a. Provide simple login-logout feature
-- [X] b. Record a short 10-second video from the webcam
-- [X] c. Extract the red channel from the frames
-- [X] d. Add a gaussian filter to these frames
-- [X] e. Store this video on the disk
-- [X] f. Show a list of videos recorded in such a way
-- [ ] g. Create a final executable that can run, both, on Windows and Linux Please note GUI is not needed and you can do everything using CLI.
-
-## Status
 
 ![cerium-ubuntu](https://github.com/satyajitghana/ProjektCerium/workflows/cerium-ubuntu/badge.svg)
 ![cerium-windows](https://github.com/satyajitghana/ProjektCerium/workflows/cerium-windows/badge.svg)
@@ -29,8 +16,7 @@ Write a C++ application which can:
 1. clone the repo
 
 ```
-git clone https://github.com/satyajitghana/ProjektCerium
-```
+git clone https://github.com/AravindMutthe/Task.git
 
 
 2. install dependencies
