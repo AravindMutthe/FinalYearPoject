@@ -1,16 +1,5 @@
 # TASK 
 
-
-![cerium-ubuntu](https://github.com/satyajitghana/ProjektCerium/workflows/cerium-ubuntu/badge.svg)
-![cerium-windows](https://github.com/satyajitghana/ProjektCerium/workflows/cerium-windows/badge.svg)
-
-----
-![release-date](https://img.shields.io/github/release-date-pre/satyajitghana/projektcerium)
-![tag](https://img.shields.io/github/v/tag/satyajitghana/projektcerium?include_prereleases)
-![release](https://img.shields.io/github/v/release/satyajitghana/projektcerium?include_prereleases)
-![license](https://img.shields.io/github/license/satyajitghana/projektcerium)
-![maintainer](https://img.shields.io/badge/maintainer-shadowleaf-blue)
-
 ## Build from source (Linux)
 
 1. clone the repo
