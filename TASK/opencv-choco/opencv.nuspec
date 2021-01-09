@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>opencv</id>
+    <version>4.2.0</version>
+    <title>OpenCV</title>
+    <authors>opencv</authors>
+    <projectUrl>http://opencv.org/</projectUrl>
+    <tags>opencv</tags>
+    <licenseUrl>http://opencv.org/</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>http://opencv.org/wp-content/themes/opencv/images/logo.png</iconUrl>
+    <description>meow</description>
+    <dependencies>
+      <dependency id="7zip.commandline" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
